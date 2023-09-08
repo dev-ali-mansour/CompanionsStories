@@ -9,8 +9,8 @@
         support:showAsAction="always" />
     <item
         android:id="@+id/action_share"
-        android:title="@string/action_share_app"
-        support:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        android:title="@string/app_share"
+        support:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"
         support:showAsAction="always" />
     <item
         android:id="@+id/action_settings"
@@ -19,6 +19,11 @@
         android:title="@string/action_settings"
         android:visible="false"
         support:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_privacy_policy"
+        android:orderInCategory="100"
+        android:title="@string/privacy_policy"
+        support:showAsAction="never" />
     <item
         android:id="@+id/action_our_apps"
         android:orderInCategory="100"

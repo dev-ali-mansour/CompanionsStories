@@ -12,13 +12,30 @@
     <string name="desc_twitter_icon">Twitter icon</string>
     <string name="desc_facebook_icon">Facebook icon</string>
     <string name="action_rate">تقييم التطبيق</string>
-    <string name="action_share_app">مشاركة التطبيق</string>
+    <string name="app_share">مشاركة التطبيق</string>
     <string name="action_size_down">تصغير حجم الخط</string>
     <string name="action_size_up">تكبير حجم الخط</string>
     <string name="action_share">مشاركة المحتوى</string>
     <string name="action_our_apps">تطبيقاتنا الأخرى</string>
-    <string name="text_update_alert_message">لقد أصبح إصدار التطبيق الخاص بك قديماً. يرجى تحديثه لآخر إصدار لضمان الاستمتاع بكافة خدمات ومزايا التطبيق.</string>
-    <string name="text_update_alert_title">تحديث التطبيق</string>
-    <string name="btn_update_alert_update">تحديث الآن</string>
+    <string name="update_alert_title">تحديث التطبيق</string>
+    <string name="update_alert_message">لقد أصبح إصدار التطبيق الخاص بك قديماً. يرجى تحديثه لآخر إصدار لضمان الاستمتاع بكافة خدمات ومزايا التطبيق.</string>
+    <string name="update_alert_update_button">تحديث التطبيق</string>
+    <string name="alert_later_button">تحديث الآن</string>
     <string name="text_location_permission_denied">تم رفض منح التطبيق صلاحية تحديد المواقع.</string>
+    <string name="share_app_text">لقد قمت بتحميل تطبيق قصص الأنبياء و وجدته تطبيق مفيد جداً و مميزاً. والعديد من المزايا الأخرى اكتشفها بنفسك. ويمكنك تحميله من الرابط التالي:</string>
+    <string name="admob_app_id">ca-app-pub-9389457918790198~8032841250</string>
+    <string name="admob_interstitial_unit_id" translatable="false">ca-app-pub-9389457918790198/3399747089</string>
+    <string name="banner_unit_id" translatable="false">ca-app-pub-9389457918790198/8025102394</string>
+    <string name="website_url" translatable="false">https://github.com/dev-ali-mansour</string>
+    <string name="facebook_url" translatable="false">https://www.facebook.com/dev.ali.mansour</string>
+    <string name="twitter_url" translatable="false">https://www.twitter.com/dev_ali_mansour</string>
+    <string name="youtube_channel_url" translatable="false">https://www.youtube.com/channel/UCpaf0uB9V8I_4Ac1DRmNzGQ</string>
+    <string name="linkedin_url" translatable="false">https://www.linkedin.com/in/dev-ali-mansour</string>
+    <string name="support_email" translatable="false">dev.ali.mansour@gmail.com</string>
+    <string name="privacy_policy_url" translatable="false">https://github.com/dev-ali-mansour/privacy-policy</string>
+    <string name="app_url" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="app_market_url" translatable="false">market://details?id=</string>
+    <string name="our_apps_market_url" translatable="false">market://dev?id=8260943179739148532</string>
+    <string name="our_apps_url" translatable="false">https://play.google.com/store/apps/dev?id=8260943179739148532</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
 </resources>
