@@ -5,15 +5,15 @@ apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdk 34
+    compileSdk 36
     defaultConfig {
         applicationId "com.tibadev.alimansour.companionsstories"
         minSdk 21
-        targetSdk 34
+        targetSdk 36
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
-        versionCode 6
-        versionName '2.4.1'
+        versionCode 7
+        versionName '2.4.2'
     }
     buildTypes {
         release {
@@ -26,6 +26,9 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17
     }
     namespace "com.tibadev.alimansour.companionsstories"
 }
