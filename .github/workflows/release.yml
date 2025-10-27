@@ -16,7 +16,6 @@ on:
 jobs:
   distribute:
     name: Distribute bundle to Google Play
-    needs: test
     runs-on: ubuntu-latest
 
     env:
